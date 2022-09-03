@@ -1,4 +1,4 @@
-Improvised OpenSea 
+**Improvised OpenSea **
 Description:
 Opensea is a market place that allows a user to mint an NFT and make it public while holding the digital signature of that particular asset. It also provides the user with the facility to sell that asset either at a fixed price or at an auction where other users bid, and the highest bid gets the sale
 Motive:
